@@ -1,0 +1,9 @@
+google-generativeai>=0.3.0
+google-generativeai
+google-api-core
+python-dotenv
+fastapi
+uvicorn
+jinja2
+python-multipart
+markdown
