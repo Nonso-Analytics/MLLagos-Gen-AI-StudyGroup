@@ -87,10 +87,10 @@ gemini-app/
 ├── cli.py             # Command-line interface
 ├── web_app.py         # FastAPI web application
 ├── requirements.txt   # Python dependencies
-├── .env.example       # Template for environment variables
+├── .env      
 ├── templates/
 │   └── index.html     # Web UI template
-└── README.md          # This file
+└── README.md          
 ```
 
 ## Troubleshooting
